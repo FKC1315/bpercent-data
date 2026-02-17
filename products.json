@@ -1,0 +1,128 @@
+{
+  "products": [
+    {
+      "id": "001",
+      "name": "PC Gamer RTX 4060",
+      "category": "PC Complet",
+      "price": 850000,
+      "marginRate": 15,
+      "imageUrl": "https://images.unsplash.com/photo-1587202372634-32705e3bf49c?w=400",
+      "description": "PC gamer performant avec RTX 4060, 16Go RAM, 512Go SSD.",
+      "stock": 10
+    },
+    {
+      "id": "002",
+      "name": "Laptop Dell Inspiron 15",
+      "category": "Laptop",
+      "price": 450000,
+      "marginRate": 12,
+      "imageUrl": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=400",
+      "description": "Laptop polyvalent Intel i5, 8Go RAM, 256Go SSD.",
+      "stock": 15
+    },
+    {
+      "id": "003",
+      "name": "MacBook Air M2",
+      "category": "Laptop",
+      "price": 950000,
+      "marginRate": 10,
+      "imageUrl": "https://images.unsplash.com/photo-1611186871525-9c2358e3ecca?w=400",
+      "description": "MacBook Air puce M2, 8Go RAM, 256Go SSD, autonomie 18h.",
+      "stock": 8
+    },
+    {
+      "id": "004",
+      "name": "Carte Graphique RTX 4070",
+      "category": "Composants",
+      "price": 380000,
+      "marginRate": 18,
+      "imageUrl": "https://images.unsplash.com/photo-1591488320449-011701bb6704?w=400",
+      "description": "NVIDIA RTX 4070 12Go GDDR6X, ray tracing, DLSS 3.",
+      "stock": 6
+    },
+    {
+      "id": "005",
+      "name": "Processeur Intel i7-13700K",
+      "category": "Composants",
+      "price": 220000,
+      "marginRate": 14,
+      "imageUrl": "https://images.unsplash.com/photo-1555617117-08c3b09b57fb?w=400",
+      "description": "Intel Core i7 13ème génération, 16 cœurs, 5.4GHz boost.",
+      "stock": 12
+    },
+    {
+      "id": "006",
+      "name": "Écran Samsung 27\" 144Hz",
+      "category": "Écrans",
+      "price": 175000,
+      "marginRate": 16,
+      "imageUrl": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=400",
+      "description": "Moniteur gaming 27 pouces, 144Hz, 1ms, FHD IPS.",
+      "stock": 20
+    },
+    {
+      "id": "007",
+      "name": "SSD NVMe Samsung 1To",
+      "category": "Stockage",
+      "price": 65000,
+      "marginRate": 20,
+      "imageUrl": "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?w=400",
+      "description": "SSD NVMe M.2 1To, lecture 7000Mo/s, Samsung 980 Pro.",
+      "stock": 25
+    },
+    {
+      "id": "008",
+      "name": "RAM Corsair 32Go DDR5",
+      "category": "Composants",
+      "price": 85000,
+      "marginRate": 17,
+      "imageUrl": "https://images.unsplash.com/photo-1562976540-1502c2145851?w=400",
+      "description": "Kit 2x16Go DDR5 5600MHz, RGB, compatible Intel/AMD.",
+      "stock": 18
+    },
+    {
+      "id": "009",
+      "name": "Clavier Mécanique Logitech G Pro",
+      "category": "Accessoires",
+      "price": 95000,
+      "marginRate": 22,
+      "imageUrl": "https://images.unsplash.com/photo-1618384887929-16ec33fab9ef?w=400",
+      "description": "Clavier mécanique TKL, switches GX Red, RGB par touche.",
+      "stock": 30
+    },
+    {
+      "id": "010",
+      "name": "Souris Razer DeathAdder V3",
+      "category": "Accessoires",
+      "price": 45000,
+      "marginRate": 25,
+      "imageUrl": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=400",
+      "description": "Souris gaming ergonomique, capteur 30000 DPI, 90h autonomie.",
+      "stock": 35
+    },
+    {
+      "id": "011",
+      "name": "Casque Audio Sony WH-1000XM5",
+      "category": "Accessoires",
+      "price": 120000,
+      "marginRate": 19,
+      "imageUrl": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?w=400",
+      "description": "Casque sans fil ANC, 30h autonomie, qualité audio Hi-Res.",
+      "stock": 14
+    },
+    {
+      "id": "012",
+      "name": "Routeur WiFi 6 TP-Link",
+      "category": "Réseau",
+      "price": 55000,
+      "marginRate": 21,
+      "imageUrl": "https://images.unsplash.com/photo-1606904825846-647eb07f5be2?w=400",
+      "description": "Routeur WiFi 6 AX3000, double bande, 4 antennes, MU-MIMO.",
+      "stock": 22
+    }
+  ]
+}
+```
+
+---
+
